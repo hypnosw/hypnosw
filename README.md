@@ -8,6 +8,24 @@ As a Northeastern University graduate student pursuing a Master of Science in Co
 
 Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permanente** honed my skills in delivering comprehensive web applications utilizing **.NET** and **Microsoft SQL Server**. My drive is to continuously develop software that enhances user experiences, aligns with strategic business goals, and fosters collaborative growth within my team and the broader tech community.
 
+# Previous Roles 🏢
+
+<a href="https://www.tesla.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tesla_logo.png/1200px-Tesla_logo.png" alt="Tesla Logo" width="45" style="height: 45px;">
+</a>
+
+<b>Tesla</b>
+
+Full-Stack Software Engineer Intern
+
+<a href="https://healthy.kaiserpermanente.org">
+    <img src="https://crpd.com/staging/wp-content/uploads/kaiser-permanente-logo-png-transparent.png" alt="Kaiser Logo" width="100" style="height: 75px;">
+</a>
+
+<b>Kaiser Permanente</b>
+
+Full-Stack Software Engineer Intern
+
 # Connect With Me🧑‍🤝‍🧑
 
 📧 Email: hypnosworking@gmail.com
@@ -16,7 +34,7 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
 
 # Technical Skills🧑‍💻
 
-## Programming Languages
+## Programming Languages 📕
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
     <a href="https://www.python.org">
@@ -45,7 +63,7 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
     </a>
 </div>
 
-## Frameworks & Tools
+## Frameworks & Tools 🛠️
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center;">
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Logo" width="40" style="height: 40px;">
@@ -85,7 +103,7 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
     </a>
 </div>
 
-## Databases
+## Databases 💾
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
     <a href="https://www.mysql.com/" target="_blank">
