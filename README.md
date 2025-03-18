@@ -16,28 +16,28 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
 
 ## Programming Languages
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <a href="https://www.python.org">
+    <a href="https://www.python.org" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python Logo" width="45" style="height: 45px;">
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="55" style="height: 50px;">
     </a>
-    <a href="https://www.java.com/">
+    <a href="https://www.java.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="30" style="height: 50px;">
     </a>
-    <a href="https://www.typescriptlang.org/">
+    <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="TypeScript Logo" width="50" style="height: 50px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" style="height: 50px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50" style="height: 50px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="50" style="height: 50px;">
     </a>
-    <a href="https://www.w3schools.com/sql/">
+    <a href="https://www.w3schools.com/sql/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="SQL Logo" width="50">
     </a>
 </div>
