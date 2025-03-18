@@ -41,7 +41,7 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS Logo" width="50" style="height: 50px;">
     </a>
     <a href="https://www.w3schools.com/sql/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="SQL Logo" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="SQL Logo" width="80">
     </a>
 </div>
 
@@ -85,7 +85,24 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
     </a>
 </div>
 
-## Database
+## Databases
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL Logo" width="80" style="height: 80px; margin: 10px;">
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server Logo" width="80" style="height: 80px; margin: 10px;">
+    </a>
+    <a href="https://cloud.google.com/products/databases" target="_blank">
+        <img src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" alt="Google Cloud Logo" width="70" style="height: 70px; margin: 10px;">
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s" alt="MongoDB Logo" width="100" style="height: 50px; margin: 10px;">
+    </a>
+</div>
+
+
 
 
 
