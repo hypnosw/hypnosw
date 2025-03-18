@@ -46,7 +46,10 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
 </div>
 
 ## Frameworks & Tools
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center;">
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Logo" width="50" style="height: 50px;">
+    </a>
     <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt=".NET Logo" width="50" style="height: 50px;">
     </a>
@@ -60,7 +63,25 @@ Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permane
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django Logo" width="70" style="height: 50px;">
     </a>
     <a href="https://spring.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot Logo" width="100" style="height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot Logo" width="110" style="height: 50px;">
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js Logo" width="80" style="height: 50px;">
+    </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" alt="Jira Logo" width="100" style="height: 50px;">
+    </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio Logo" width="50" style="height: 50px;">
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code Logo" width="50" style="height: 50px;">
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins Logo" width="50" style="height: 50px;">
+    </a>
+    <a href="https://www.splunk.com/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-PASpJ1kGJj0fkrSX9cbRmWely9ylCCjXQ&s" alt="Splunk Logo" width="120" style="height: 50px;">
     </a>
 </div>
 
