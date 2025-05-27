@@ -4,9 +4,9 @@
 
 **[Actively seeking full-time opportunities in 2025]**
 
-As a Northeastern University graduate student pursuing a Master of Science in Computer Science, my journey has led me to the forefront of technological innovation at **Tesla**, where I contribute as a Full-Stack Software Engineer Intern. Leveraging my expertise in **AngularJS**, **Relational-database**, and **ASP.NET Core**, I focus on building robust and user-friendly applications.
+As a recent M.S. graduate in Computer Science from Northeastern University with a B.A. in Media Studies from UC Berkeley, I bring a solid foundation in full-stack development and a passion for solving complex problems. My internships at Tesla and Kaiser Permanente honed my skills in building scalable applications using **TypeScript**, **C#**, **ASP.NET**, and **Microsoft SQL Server**, where I contributed to optimizing supply chain efficiency by 40% and enhanced internal processes. Projects like Kanbas, a full-stack LMS, and Entertainia, a social media platform, showcase my ability to design responsive UIs with **React**, **Node.js**, and **MongoDB**, alongside integrating DevOps practices.
 
-Previously, my role as a Full-Stack Software Engineer Intern at **Kaiser Permanente** honed my skills in delivering comprehensive web applications utilizing **.NET** and **Microsoft SQL Server**. My drive is to continuously develop software that enhances user experiences, aligns with strategic business goals, and fosters collaborative growth within my team and the broader tech community.
+I thrive in agile environments, leveraging tools like **Git**, **Jenkins**, and **Jira** to deliver high-quality code. With experience in **OOP**, **RESTful APIs**, and algorithm design, I’m eager to kickstart my career as a software engineer, collaborating on innovative solutions while continuously learning and adapting to new challenges. Let’s connect to explore how I can contribute to your team!
 
 # Previous Roles 🏢
 
