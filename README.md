@@ -103,7 +103,7 @@ Full-Stack Software Engineer Intern
     </a>
 </div>
 
-## Databases 💾
+## Databases & Cloud 💾
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
     <a href="https://www.mysql.com/" target="_blank">
@@ -114,6 +114,9 @@ Full-Stack Software Engineer Intern
     </a>
     <a href="https://cloud.google.com/products/databases" target="_blank">
         <img src="https://itignite.com/wp-content/uploads/2021/04/gcp-300x300.png" width="50" style="height: 50px; margin-right: 10px;">
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" width="50" style="height: 50px; margin-right: 10px;">
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&s" alt="MongoDB Logo" width="100" style="height: 50px; margin: 10px;">
